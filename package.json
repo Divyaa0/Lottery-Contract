@@ -1,0 +1,22 @@
+{
+  "name": "dproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.15",
+    "ganache": "^7.9.1",
+    "ganache-cli": "^6.12.2",
+    "mocha": "^10.2.0",
+    "nvm": "^0.0.4",
+    "solc": "^0.4.25",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "web3": "^4.1.1"
+  }
+}
